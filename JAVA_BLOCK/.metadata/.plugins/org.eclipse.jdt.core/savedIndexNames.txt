@@ -1,0 +1,6 @@
+INDEX VERSION 1.131+C:\Users\taehw\OneDrive\바탕 화면\개인 파일\대학코딩\JAVA_BLOCK\.metadata\.plugins\org.eclipse.jdt.core
+1741873667.index
+2641983289.index
+1865797976.index
+2485878017.index
+962798934.index
